@@ -16,7 +16,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;I'm+Vicky_Boy_23;Computer+Science+Engineer;Full+Stack+Developer;Building+Innovative+Projects;Exploring+AI+and+Technology;Let's+Create+Something+Amazing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile+✌️;I'm+Vicky_Boy_23+😉;Computer+Science+Engineer+🖥️;Full+Stack+Developer+🧑‍💻;Building+Innovative+Projects;Exploring+AI+and+Technology+⚙️;Let's+Create+Something+Amazing" />
 
 </p>
 
@@ -56,11 +56,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VickyBoy2309/VickyBoy2309/output/github-contribution-grid-snake.svg"/>
-
-</div>
 
 <div align="center">
  
