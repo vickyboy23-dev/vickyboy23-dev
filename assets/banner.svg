@@ -1,0 +1,24 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .ascii {
+      font-family: monospace;
+      font-size: 18px;
+      fill: #00ff00;
+      white-space: pre;
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="black"/>
+
+  <text x="20" y="40" class="ascii">
+<![CDATA[
+                __     __  ___    ____   _  __ __   __           ____     ___   __   __           ____    _____ 
+                \ \   / / |_ _|  / ___| | |/ / \ \ / /          | __ )   / _ \  \ \ / /          |___ \  |___ / 
+                 \ \ / /   | |  | |     | ' /   \ V /           |  _ \  | | | |  \ V /             __) |   |_ \ 
+                  \ V /    | |  | |___  | . \    | |            | |_) | | |_| |   | |             / __/   ___) |
+                   \_/    |___|  \____| |_|\_\   |_|   _______  |____/   \___/    |_|   _______  |_____| |____/  
+]]>
+  </text>
+
+</svg>
