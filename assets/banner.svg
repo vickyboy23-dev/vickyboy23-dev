@@ -1,24 +1,33 @@
-<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
-
-  <style>
-    .ascii {
-      font-family: monospace;
-      font-size: 18px;
-      fill: #00ff00;
-      white-space: pre;
-    }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260">
 
   <rect width="100%" height="100%" fill="black"/>
 
-  <text x="20" y="40" class="ascii">
-<![CDATA[
+  <text x="20" y="40"
+        font-family="monospace"
+        font-size="18"
+        fill="#00ff00"
+        xml:space="preserve">
+
+    <tspan x="20" dy="0">
                 __     __  ___    ____   _  __ __   __           ____     ___   __   __           ____    _____ 
+    </tspan>
+
+    <tspan x="20" dy="20">
                 \ \   / / |_ _|  / ___| | |/ / \ \ / /          | __ )   / _ \  \ \ / /          |___ \  |___ / 
+    </tspan>
+
+    <tspan x="20" dy="20">
                  \ \ / /   | |  | |     | ' /   \ V /           |  _ \  | | | |  \ V /             __) |   |_ \ 
+    </tspan>
+
+    <tspan x="20" dy="20">
                   \ V /    | |  | |___  | . \    | |            | |_) | | |_| |   | |             / __/   ___) |
+    </tspan>
+
+    <tspan x="20" dy="20">
                    \_/    |___|  \____| |_|\_\   |_|   _______  |____/   \___/    |_|   _______  |_____| |____/  
-]]>
+    </tspan>
+
   </text>
 
 </svg>
