@@ -1,26 +1,30 @@
-name: Update Jarvis Panel
+name: Generate Jarvis Dashboard
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: actions/checkout@v3
-
-      - uses: actions/setup-node@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      - run: node scripts/generateJarvis.js
+      - name: Generate Jarvis SVG
+        run: node scripts/generateJarvis.js
 
-      - run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add .
-          git commit -m "Update Jarvis stats"
+          git commit -m "Update Jarvis stats" || exit 0
           git push
