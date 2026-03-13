@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/jarvis.svg?v=1" width="100%"/>
+<img src="assets/jarvis.svg">
 </p>
 
 <p align="center">
