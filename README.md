@@ -24,9 +24,9 @@
   <img src="assets/jarvis.svg?v=1" width="100%"/>
 </p>
 
-<div align="center">
+<p align="center">
   <img src="assets/about_me_hub.svg?v=1" width="100%"/>
-</div>
+</p>
 
 ---
 
