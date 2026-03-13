@@ -24,7 +24,7 @@ xmlns="http://www.w3.org/2000/svg">
 <rect width="100%" height="100%" fill="#15132B"/>
 
 <!-- title -->
-<text x="450" y="60" class="title">👨‍💻 About Me</text>
+<text x="450" y="60" class="title"> About Me</text>
 
 <!-- lines -->
 
