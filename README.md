@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<img src="assets/about_me_hud.svg?v=1" width="100%">
+<img src="assets/about-me.svg" width="100%">
 </p>
 
 ---
