@@ -2,10 +2,9 @@
 xmlns="http://www.w3.org/2000/svg">
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
 
 .panel-title {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: "JetBrains Mono", monospace;
   font-weight: 600;
   font-size: 30px;
   fill: #ffcb6b;
@@ -13,24 +12,25 @@ xmlns="http://www.w3.org/2000/svg">
 }
 
 .username {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 18px;
   fill: #8a7cff;
   text-anchor: middle;
 }
 
 .status {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: "JetBrains Mono", monospace;
   font-weight: 600;
   font-size: 20px;
   fill: #8a7cff;
 }
 
 .text {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: "JetBrains Mono", monospace;
   font-size: 18px;
   fill: #e6e6ff;
 }
+
 </style>
 
 <!-- background -->
@@ -48,16 +48,16 @@ stroke="#8a7cff"
 stroke-width="2"
 />
 
-<!-- Jarvis title -->
+<!-- title -->
 <text x="450" y="90" class="panel-title">JARVIS AI</text>
 
 <!-- username -->
 <text x="450" y="120" class="username">VICKYBOY2309</text>
 
-<!-- arc reactor status -->
+<!-- section -->
 <text x="120" y="170" class="status">ARC REACTOR STATUS</text>
 
-<!-- information -->
+<!-- info -->
 <text x="120" y="200" class="text">⚡ Commits: 240</text>
 <text x="120" y="225" class="text">⚡ Repositories: 2</text>
 <text x="120" y="250" class="text">⚡ Languages: Python, Java, JavaScript, C</text>
