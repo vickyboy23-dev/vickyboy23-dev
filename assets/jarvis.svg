@@ -2,64 +2,24 @@
 xmlns="http://www.w3.org/2000/svg">
 
 <style>
-
-.panel-title {
-  font-family: "JetBrains Mono", monospace;
-  font-weight: 600;
-  font-size: 30px;
-  fill: #ffcb6b;
-  text-anchor: middle;
-}
-
-.username {
-  font-family: "JetBrains Mono", monospace;
-  font-size: 18px;
-  fill: #8a7cff;
-  text-anchor: middle;
-}
-
-.status {
-  font-family: "JetBrains Mono", monospace;
-  font-weight: 600;
-  font-size: 20px;
-  fill: #8a7cff;
-}
-
-.text {
-  font-family: "JetBrains Mono", monospace;
-  font-size: 18px;
-  fill: #e6e6ff;
-}
-
+.panel-title { font-family:"JetBrains Mono",monospace;font-weight:600;font-size:30px;fill:#ffcb6b;text-anchor:middle;}
+.username { font-family:"JetBrains Mono",monospace;font-size:18px;fill:#8a7cff;text-anchor:middle;}
+.status { font-family:"JetBrains Mono",monospace;font-weight:600;font-size:20px;fill:#8a7cff;}
+.text { font-family:"JetBrains Mono",monospace;font-size:18px;fill:#e6e6ff;}
 </style>
 
-<!-- background -->
 <rect width="100%" height="100%" fill="#15132b"/>
 
-<!-- main panel -->
-<rect
-x="60"
-y="40"
-width="780"
-height="280"
-rx="10"
-fill="#1b1534"
-stroke="#8a7cff"
-stroke-width="2"
-/>
+<rect x="60" y="40" width="780" height="280" rx="10"
+fill="#1b1534" stroke="#8a7cff" stroke-width="2"/>
 
-<!-- title -->
 <text x="450" y="95" class="panel-title">JARVIS AI</text>
-
-<!-- username -->
 <text x="450" y="130" class="username">VICKYBOY2309</text>
 
-<!-- section -->
 <text x="120" y="190" class="status">ARC REACTOR STATUS</text>
 
-<!-- information lines with proper spacing -->
-<text x="120" y="230" class="text">⚡ Commits: 240</text>
-<text x="120" y="265" class="text">⚡ Repositories: 2</text>
-<text x="120" y="300" class="text">⚡ Languages: Python, Java, JavaScript, C</text>
+<text x="120" y="230" class="text">⚡ Commits: {{COMMITS}}</text>
+<text x="120" y="265" class="text">⚡ Repositories: {{REPOS}}</text>
+<text x="120" y="300" class="text">⚡ Languages: {{LANGUAGES}}</text>
 
 </svg>
