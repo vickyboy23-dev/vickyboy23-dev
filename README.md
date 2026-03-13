@@ -16,7 +16,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile+✌️;I'm+Vicky_Boy_23+😉;Computer+Science+Engineer+🖥️;Full+Stack+Developer+🧑‍💻;Building+Innovative+Projects;Exploring+AI+and+Technology+⚙️;Let's+Create+Something+Amazing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=36&duration=3200&pause=900&color=8A7CFF&background=15132B00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile+✌️;I'm+Vicky_Boy_23+😉;Computer+Science+Engineer+🖥️;Full+Stack+Developer+🧑‍💻;Building+Innovative+Projects;Exploring+AI+and+Technology+⚙️;Let's+Create+Something+Amazing&gradient=8A7CFF,FFCB6B,8A7CFF" />
 
 </p>
 
