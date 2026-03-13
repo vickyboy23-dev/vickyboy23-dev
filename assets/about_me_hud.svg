@@ -1,0 +1,45 @@
+
+<svg width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+.title { font-family:'JetBrains Mono', monospace; font-size:28px; font-weight:700; fill:#00ffff }
+.text { font-family:'JetBrains Mono', monospace; font-size:16px; fill:#00ffff }
+.panel { fill:#020b14; stroke:#00ffff; stroke-width:2; opacity:0.65 }
+</style>
+
+<rect width="100%" height="100%" fill="#020b14"/>
+
+<!-- Flying Iron Man -->
+<image href="Iron Man Flying.png"
+width="90" height="90">
+
+<animate attributeName="x"
+from="-120" to="900"
+dur="8s"
+repeatCount="indefinite"/>
+
+<animate attributeName="y"
+values="200;170;200"
+dur="3s"
+repeatCount="indefinite"/>
+</image>
+
+<!-- HUD panel -->
+<rect x="20" y="20" width="860" height="260" class="panel"/>
+
+<!-- Title -->
+<text x="50" y="70" class="title">JARVIS AI</text>
+
+<!-- Username -->
+<text x="50" y="95" class="text">VickyBoy2309</text>
+
+<!-- About Content -->
+<text x="50" y="130" class="text">🎓 Computer Science student passionate about building impactful software</text>
+<text x="50" y="160" class="text">⚙️ I design, build, break, and rebuild until everything works perfectly</text>
+<text x="50" y="190" class="text">🚀 Currently learning Full Stack Development and exploring AI technologies</text>
+<text x="50" y="220" class="text">🧠 Always curious. Always improving. Always shipping code</text>
+<text x="50" y="250" class="text">⚡ Technology isn't just something I study — it's something I create</text>
+
+</svg>
