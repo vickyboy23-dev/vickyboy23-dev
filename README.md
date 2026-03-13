@@ -26,13 +26,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
-
-🎓 Computer Science student passionate about building impactful software  
-⚙️ I design, build, break, and rebuild until everything works perfectly  
-🚀 Currently learning **Full Stack Development** and exploring **AI technologies**  
-🧠 Always curious. Always improving. Always shipping code  
-⚡ Technology isn't just something I study — it's something I create
+<img src="assets/about_me_hub.svg?v=1" width="100"/>
 
 </div>
 
