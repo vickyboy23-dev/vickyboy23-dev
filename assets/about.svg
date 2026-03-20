@@ -17,7 +17,7 @@ fill:#00ffff;
 .box {
 fill:#120C2B;
 stroke:#8A7DFF;
-stroke-width:2;
+stroke-width:0;
 rx:15;
 }
 </style>
