@@ -1,0 +1,52 @@
+<svg viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title {
+font-family:'JetBrains Mono';
+font-size:26px;
+font-weight:700;
+fill:#FFD580;
+}
+
+.subtitle {
+font-family:'JetBrains Mono';
+font-size:16px;
+fill:#8A7DFF;
+}
+
+.text {
+font-family:'JetBrains Mono';
+font-size:16px;
+fill:#00ffff;
+}
+
+.box {
+fill:#120C2B;
+stroke:#8A7DFF;
+stroke-width:0;
+rx:15;
+}
+</style>
+
+<!-- Background -->
+<rect x="5" y="5" width="690" height="250" class="box"/>
+
+<!-- Title -->
+<text x="350" y="50" text-anchor="middle" class="title">
+JARVIS AI
+</text>
+
+<!-- Username -->
+<text x="350" y="80" text-anchor="middle" class="subtitle">
+VICKYBOY2309
+</text>
+
+<!-- Section -->
+<text x="50" y="130" class="text">ARC REACTOR STATUS</text>
+
+<!-- Dynamic Data -->
+<text x="50" y="160" class="text">⚡ Commits: 15</text>
+<text x="50" y="190" class="text">⚡ Repositories: 4</text>
+<text x="50" y="220" class="text">⚡ Languages: HTML, Java, TypeScript</text>
+
+</svg>
