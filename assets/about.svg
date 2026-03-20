@@ -1,0 +1,44 @@
+<svg viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title {
+font-family:'JetBrains Mono','Fira Code','Consolas',monospace;
+font-size:22px;
+font-weight:700;
+fill:#8A7DFF;
+}
+
+.text {
+font-family:'JetBrains Mono','Fira Code','Consolas',monospace;
+font-size:15px;
+fill:#00ffff;
+}
+
+.box {
+fill:#120C2B;
+stroke:#8A7DFF;
+stroke-width:2;
+rx:15;
+}
+</style>
+
+<!-- Background -->
+<rect x="5" y="5" width="690" height="250" class="box"/>
+
+<!-- Title -->
+<text x="350" y="40" text-anchor="middle" class="title">
+ About Me
+</text>
+
+<!-- Content -->
+<text x="40" y="80" class="text">🎓 Computer Science student passionate about building impactful software</text>
+
+<text x="40" y="110" class="text">⚙️ I design, build, break, and rebuild until everything works perfectly</text>
+
+<text x="40" y="140" class="text">🚀 Currently learning Full Stack Development and exploring AI technologies</text>
+
+<text x="60" y="170" class="text">🧠 Always curious. Always improving. Always shipping code</text>
+
+<text x="40" y="200" class="text">⚡ Technology isn't just something I study — it's something I create</text>
+
+</svg>
