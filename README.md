@@ -37,23 +37,7 @@
 ---
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-<img height="170em" src="https://streak-stats.demolab.com?user=VickyBoy2309&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VickyBoy2309/VickyBoy2309/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-<div align="center">
  
-## ✍️ Random Dev Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
