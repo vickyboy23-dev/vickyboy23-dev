@@ -34,7 +34,7 @@ languages = ", ".join(languages_set) if languages_set else "None"
 # ----------------------------
 total_commits = 0
 
-for repo in repos[:5]:  # limit for API safety
+for repo in repos[:]:  # limit for API safety
     repo_name = repo["name"]
     commits_url = f"https://api.github.com/repos/{username}/{repo_name}/commits?per_page=1"
 
