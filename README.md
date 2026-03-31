@@ -42,7 +42,7 @@
 </div>
 
 <div>
-  <img src="assets/about.svg"/>
+  <img src="assets/about-me.svg"/>
 </div>
 
 
