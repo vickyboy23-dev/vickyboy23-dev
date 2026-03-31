@@ -28,19 +28,13 @@
 </div>
 
 <div align="center">
-## 👤 USER PROFILE
+> Boot sequence initiated...
 
-> Initializing...
+Curiosity-driven and focused on mastering Computer Science through consistent learning and implementation.
 
-Curious about Computer Science. Learning daily, building through practice, and aiming to become a core programmer.
+Progressing toward becoming a core programmer with strong fundamentals.
 
-### ⚙️ STACK
-HTML • CSS • Python (basic) • Node.js • Express • MongoDB • Java (learning)
-
-### 🛠️ TOOLS
-VS Code • Git • GitHub • Windows Terminal
-
-> Status: Active | Mode: Learn → Build → Improve ⚡
+> Status: Active [On Fire 🔥] | Directive: Improve continuously ⚡
 </div>
 
 ---
