@@ -27,7 +27,6 @@
 
 </div>
 
-<div align="center">
 > Boot sequence initiated...
 
 Curiosity-driven and focused on mastering Computer Science through consistent learning and implementation.
@@ -35,7 +34,6 @@ Curiosity-driven and focused on mastering Computer Science through consistent le
 Progressing toward becoming a core programmer with strong fundamentals.
 
 > Status: Active [On Fire 🔥] | Directive: Improve continuously ⚡
-</div>
 
 ---
 
