@@ -1,61 +1,44 @@
-<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260">
   <defs>
-    <!-- Iron Man Gradient -->
-    <linearGradient id="ironmanGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#7A0C0C"/>
-      <stop offset="40%" stop-color="#B11313"/>
-      <stop offset="70%" stop-color="#FF3C00"/>
+      <stop offset="50%" stop-color="#B11313"/>
+      <stop offset="80%" stop-color="#FF3C00"/>
       <stop offset="100%" stop-color="#0D0D0D"/>
     </linearGradient>
-
-    <!-- Glow Effect -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <!-- Background -->
-  <rect x="0" y="0" width="800" height="260" rx="18" fill="url(#ironmanGradient)"/>
+  <rect width="800" height="260" rx="15" fill="url(#g)"/>
 
   <!-- Title -->
-  <text align="center" x="30" y="45" font-family="monospace" font-size="22" fill="#FFD700" filter="url(#glow)">
-    About Me
+  <text x="30" y="40" fill="#FFD700" font-size="22" font-family="monospace">
+    USER PROFILE
   </text>
-
-  <!-- Divider -->
-  <line x1="30" y1="60" x2="770" y2="60" stroke="#FFD700" opacity="0.5"/>
 
   <!-- Content -->
-  <text x="30" y="95" font-family="monospace" font-size="14" fill="#F5F5F5">
-    🧠 Developer | System Thinker
+  <text x="30" y="80" fill="#FFFFFF" font-size="14" font-family="monospace">
+    Developer | System Thinker
   </text>
 
-  <text x="30" y="120" font-family="monospace" font-size="14" fill="#F5F5F5">
-    ⚙️ Focus: Core Computer Science
+  <text x="30" y="105" fill="#FFFFFF" font-size="14" font-family="monospace">
+    Focus: Core Computer Science
   </text>
 
-  <text x="30" y="145" font-family="monospace" font-size="14" fill="#F5F5F5">
-    🚀 Goal: Core Programming Mastery
+  <text x="30" y="130" fill="#FFFFFF" font-size="14" font-family="monospace">
+    Goal: Core Programming Mastery
   </text>
 
-  <text x="30" y="175" font-family="monospace" font-size="14" fill="#EAEAEA">
-    - Learn → Implement → Improve
+  <text x="30" y="165" fill="#DDDDDD" font-size="13" font-family="monospace">
+    Learn - Implement - Improve
   </text>
 
-  <text x="30" y="195" font-family="monospace" font-size="14" fill="#EAEAEA">
-    - Build → Break → Optimize
-  </text>
-
-  <text x="30" y="215" font-family="monospace" font-size="14" fill="#EAEAEA">
-    - Driven by curiosity & consistency
+  <text x="30" y="190" fill="#DDDDDD" font-size="13" font-family="monospace">
+    Build - Break - Optimize
   </text>
 
   <!-- Footer -->
-  <text x="30" y="240" font-family="monospace" font-size="13" fill="#FFD700">
-    ⚡ STATUS: ACTIVE
+  <text x="30" y="230" fill="#FFD700" font-size="13" font-family="monospace">
+    STATUS: ACTIVE
   </text>
 </svg>
