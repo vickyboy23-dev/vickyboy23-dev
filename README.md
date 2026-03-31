@@ -41,13 +41,10 @@
 
 </div>
 
-> Boot sequence initiated...
+<div>
+  <img src="assets/about.svg"/>
+</div>
 
-Curiosity-driven and focused on mastering Computer Science through consistent learning and implementation.
-
-Progressing toward becoming a core programmer with strong fundamentals.
-
-> Status: Active [On Fire 🔥] | Directive: Improve continuously ⚡
 
 ---
 
