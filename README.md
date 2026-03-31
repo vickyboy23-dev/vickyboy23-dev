@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-<img src="assets/about.svg" />
+
 </div>
 
 ---
