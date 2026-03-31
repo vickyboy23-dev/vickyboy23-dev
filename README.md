@@ -11,19 +11,6 @@
 </div>
 
 <div align="center">
-## 👤 USER PROFILE
-
-> Initializing...
-
-Curious about Computer Science. Learning daily, building through practice, and aiming to become a core programmer.
-
-### ⚙️ STACK
-HTML • CSS • Python (basic) • Node.js • Express • MongoDB • Java (learning)
-
-### 🛠️ TOOLS
-VS Code • Git • GitHub • Windows Terminal
-
-> Status: Active | Mode: Learn → Build → Improve ⚡
 <img src="Tony Stark.jpg" width="100%">
 
 </div>
@@ -41,7 +28,19 @@ VS Code • Git • GitHub • Windows Terminal
 </div>
 
 <div align="center">
+## 👤 USER PROFILE
 
+> Initializing...
+
+Curious about Computer Science. Learning daily, building through practice, and aiming to become a core programmer.
+
+### ⚙️ STACK
+HTML • CSS • Python (basic) • Node.js • Express • MongoDB • Java (learning)
+
+### 🛠️ TOOLS
+VS Code • Git • GitHub • Windows Terminal
+
+> Status: Active | Mode: Learn → Build → Improve ⚡
 </div>
 
 ---
