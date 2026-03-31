@@ -42,7 +42,6 @@
 </div>
 
 <div>
-  <img src="assets/about.svg"/>
 </div>
 
 
