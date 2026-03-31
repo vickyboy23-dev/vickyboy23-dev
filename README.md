@@ -22,35 +22,27 @@
 # Tech Stack
 ## ⚙️ MODULES
 
-### ✅ 100% CORE
+**✅ CORE**  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql&theme=dark" />
 </p>
 
----
-
-### 🚧 30% [LEARNING]
+**🚧 LEARNING**  
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java&theme=dark" />
 </p>
 
----
-
-### 🧠 WANT TO LEARN
+**🧠 NEXT**  
 <p>
   <img src="https://skillicons.dev/icons?i=c,blender&theme=dark" />
 </p>
 
----
-
-### 🛠️ TOOLS
+**🛠 TOOLS**  
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,obsidian,notion&theme=dark" />
 </p>
 
----
-
-> System Status: Expanding capabilities ⚡
+> Status: Expanding ⚡
 ---
 
 </div>
