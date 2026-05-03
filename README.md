@@ -17,8 +17,6 @@
 
 ---
 
-<!-- Top Languages by Repo -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyBoy2309&layout=donut&langs_count=5&hide_border=true&bg_color=111213&title_color=C8A94A&text_color=b0b0b0&border_radius=8"/>
 <div align="center">
  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
