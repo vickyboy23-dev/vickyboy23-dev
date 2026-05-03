@@ -40,6 +40,24 @@
 
 </div>
 
+<h2 align="center">⚡ J.A.R.V.I.S LANGUAGE ANALYSIS MODULE</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:1a0000&height=2&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyBoy2309&layout=donut&langs_count=6&bg_color=0a0a0f&title_color=FF2400&text_color=FFCC00&border_color=FF2400&hide_border=false" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,100:0a0a0f&height=2&section=footer"/>
+</p>
+
+<p align="center">
+  <b>🔴 ARC CORE ENERGY DISTRIBUTION</b><br>
+  <sub>Analyzing repository language usage across system modules...</sub>
+</p>
 
 <div align="center">
  
