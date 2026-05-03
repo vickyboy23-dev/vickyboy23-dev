@@ -18,8 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyBoy2309
-    &layout=compact
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyBoy2309&layout=compact
     &langs_count=7
     &hide_border=true
     &bg_color=0d0d0d
