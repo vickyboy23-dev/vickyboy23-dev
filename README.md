@@ -40,17 +40,6 @@
 
 </div>
 
-<div align="center">
-## ⚡ J.A.R.V.I.S ANALYTICS — LANGUAGE MATRIX
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&langs_count=6&bg_color=0a0a0f&title_color=FF6A00&text_color=FFFFFF&border_color=FF6A00&hide_border=false" />
-</p>
-
-<p align="center">
-  <b>🔋 POWER DISTRIBUTION ACROSS CORE LANGUAGES</b>
-</p>
-</div>
 
 <div align="center">
  
