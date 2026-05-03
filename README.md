@@ -40,13 +40,6 @@
 
 </div>
 
-<div>
-  <img src="assets/about-me.svg"/>
-</div>
-
-
----
-
 <div align="center">
  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
